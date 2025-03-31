@@ -1,0 +1,37 @@
+{
+    "quoteData": [
+        {
+            "id": 1,
+            "name": "Miguel Gallardo",
+            "designation": "Intisa Propiedades",
+            "quote": "Targeting consultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties practasing why she shewing now remembering."
+        },
+        {
+            "id": 2,
+            "name": "Claudia Mansilla",
+            "designation": "La Bonita Ediciones",
+            "quote": "Engagement consultation across various sectors is key to improving efficiency. Strategic thinking often leads to exponential growth when applied correctly. Understanding the customer’s needs creates a winning solution."
+        },
+        {
+            "id": 3,
+            "name": "Mauricio Núñez",
+            "designation": "Loba Ediciones",
+            "quote": "Collaborative efforts within the design team enabled us to come up with innovative solutions. Understanding the nuances of modern trends has really pushed our project outcomes to the next level."
+        }
+
+    ],
+    "navigationData": [
+        {
+            "id": 1,
+            "thumb": "intisa.png"
+        },
+        {
+            "id": 2,
+            "thumb": "labonita.jpg"
+        },
+        {
+            "id": 3,
+            "thumb": "loba.png"
+        }
+    ]
+}

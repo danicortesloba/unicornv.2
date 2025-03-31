@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "icon": "4.png",
+        "iconLight": "26.png",
+        "title": "Carritos de compra",
+        "text": "Vende tus productos online de manera segura y eficiente. ",
+        "activeClass": ""
+    },
+    {
+        "id": 2,
+        "icon": "1.png",
+        "iconLight": "23.png",
+        "title": "Creación páginas web",
+        "text": "Creamos tu sitio web con el mejor diseño y la mejor tecnología para tu industria. ¡Ponte en contacto!",
+        "activeClass": ""
+    },
+    {
+        "id": 3,
+        "icon": "2.png",
+        "iconLight": "24.png",
+        "title": "Actualización de páginas web",
+        "text": "¿Tienes una página muy lenta o muy desactualizada y tu diseñador no responde? ¡Confía en nosotros!",
+        "activeClass": "active"
+    },
+    {
+        "id": 4,
+        "icon": "3.png",
+        "iconLight": "25.png",
+        "title": "Creación de Aplicaciones Web",
+        "text": "Desde aplicaciones para controlar inventario hasta aplicaciones para manejar los libros de tu biblioteca, nosotros podemos hacerlo.",
+        "activeClass": ""
+    }
+   
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "animation": "animate__animated animate__fadeInDown",
+        "count": 5,
+        "suffix": "",
+        "label": "Años de experiencia",
+        "duration": "0"
+    },
+    {
+        "id": 2,
+        "animation": "animate__animated animate__fadeInUp",
+        "count": 7,
+        "suffix": "",
+        "label": "Industrias",
+        "duration": "0.5s"
+    },
+    {
+        "id": 3,
+        "animation": "animate__animated animate__fadeInDown",
+        "count": 12,
+        "suffix": "",
+        "label": "Proyectos",
+        "duration": "0"
+    }
+]
