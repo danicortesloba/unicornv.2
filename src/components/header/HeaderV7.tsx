@@ -5,11 +5,9 @@ import useSidebarMenu from "../../hooks/useSidebarMenu";
 import useSubMenuToggle from "../../hooks/useSubMenuToggle";
 import useStickyMenu from "../../hooks/useStickyMenu";
 
-interface DataType {
-    lightMode?: boolean;
-}
 
-const HeaderV7 = ({ lightMode }: DataType) => {
+
+const HeaderV7 = () => {
 
     const { isOpen, openMenu, closeMenu } = useSidebarMenu();
     const toggleSubMenu = useSubMenuToggle();

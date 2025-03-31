@@ -1,6 +1,3 @@
-import { Link } from "react-router-dom";
-import NewsletterV2 from '../newsletter/NewsletterV2';
-import FooterSocial from '../social/FooterSocial';
 import logo from '/assets/img/logo.png'
 
 interface DataType {

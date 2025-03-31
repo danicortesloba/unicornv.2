@@ -7,9 +7,7 @@ import useSubMenuToggle from "../../hooks/useSubMenuToggle";
 import useSidebarInfo from "../../hooks/useSidebarInfo";
 import useStickyMenu from "../../hooks/useStickyMenu";
 
-interface DataType {
-    lightMode?: boolean;
-}
+
 
 const HeaderV1 = ()  => {
 

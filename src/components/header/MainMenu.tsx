@@ -6,7 +6,7 @@ interface DataType {
     toggleSubMenu?: (event: React.MouseEvent<HTMLAnchorElement>) => void;
 }
 
-const MainMenu = ({ navbarPlacement, toggleSubMenu }: DataType) => {
+const MainMenu = ({ navbarPlacement }: DataType) => {
     return (
         <>
             <ul className={`nav navbar-nav ${navbarPlacement ? navbarPlacement : ""}`} data-in="fadeInDown" data-out="fadeOutUp">

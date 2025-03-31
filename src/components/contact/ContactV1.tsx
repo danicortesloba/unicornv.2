@@ -1,5 +1,4 @@
 import ContactForm from "../form/ContactForm";
-import SocialShareV2 from "../social/SocialShareV2";
 
 interface DataType {
     sectionClass?: string

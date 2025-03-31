@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import logoLight from "/assets/img/logo-light.png"
 import MainMenuV2 from './MainMenuV2';
 import SocialShareV3 from '../social/SocialShareV3';
-import HeaderNewsLetter from './HeaderNewsLetter';
+
 import useSubMenuToggleV2 from "../../hooks/useSubMenuToggleV2";
 
 interface DataType {
@@ -80,7 +80,7 @@ const SidebarMenu = ({ isInfoOpen, closeInfoBar, openInfoBar }: DataType) => {
                                         </div>
                                         <div className="widget newsletter">
                                             <h4 className="title">Get Subscribed!</h4>
-                                            <HeaderNewsLetter />
+                                           
                                         </div>
                                         <div className="widget social">
                                             <ul className="link">

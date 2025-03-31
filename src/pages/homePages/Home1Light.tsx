@@ -19,7 +19,7 @@ const Home1Light = () => {
             </Helmet>
 
             <div className="smooth-scroll-container">
-                <HeaderV1 lightMode={true} />
+                <HeaderV1  />
                 <BannerV8 lightMode={true} />
                 <AboutV6 lightMode={true} />
                 <ServicesV1 sectionClass='bg-gray default-padding' hasTitle={true} lightMode={true} />
