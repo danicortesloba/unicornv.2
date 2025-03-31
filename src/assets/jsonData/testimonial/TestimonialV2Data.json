@@ -16,22 +16,22 @@
             "id": 3,
             "name": "Mauricio Núñez",
             "designation": "Loba Ediciones",
-            "quote": "Collaborative efforts within the design team enabled us to come up with innovative solutions. Understanding the nuances of modern trends has really pushed our project outcomes to the next level."
+            "quote": "Unicorn Solutions ha conseguido que en cada actualización nuestra página se vea mejor, dándonos una mejor llegada a nuestros clientes."
         }
 
     ],
     "navigationData": [
         {
             "id": 1,
-            "thumb": "intisa.png"
+            "thumb": "loba.png"
         },
         {
             "id": 2,
-            "thumb": "labonita.jpg"
+            "thumb": "intisa.png"
         },
         {
             "id": 3,
-            "thumb": "loba.png"
+            "thumb": "labonita.jpg"
         }
     ]
 }
