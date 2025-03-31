@@ -9,7 +9,7 @@ const LayoutV1Light = ({ children }: LayoutProps) => {
     return (
         <>
             <div className="smooth-scroll-container">
-                <HeaderV7 lightMode={true} />
+                <HeaderV7  />
                 {children}
                 <FooterV4 lightMode={true} sectionClass='bg-gray' />
             </div>
